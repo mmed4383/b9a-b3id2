@@ -1,0 +1,19 @@
+header{
+    background-color: bisque;
+    display: flex;
+    justify-content:space-between;
+
+}
+ul{
+    display: flex;
+    gap: 20px
+}
+li{
+    list-style: none;
+}
+a{
+    color: rgb(97, 98, 99);
+}
+
+
+
